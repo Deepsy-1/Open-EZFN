@@ -1,0 +1,39 @@
+{
+    "platform": "Playstation",
+    "account": {
+      "deviceID": "",
+      "accountID": "",
+      "secret": ""
+    },
+    "cosmetics": {
+      "skin": "Skull Trooper",
+      "backpack": "",
+      "emote": "Floss",
+      "emoji": "",
+      "pickaxe": "",
+      "pet": ""
+    },
+    "cosmetics_variants": {
+      "skin": [{"item": "AthenaCharacter", "channel": "ClothingColor", "variant": "Mat1"}],
+      "backpack": [],
+      "pickaxe": [],
+      "pet": []
+    },
+    "owners": ["YourID"],
+	
+	"Open EZFN Settings": {
+	
+	  "AddFriendMessage": "Thanks for adding my bot <3",
+	  "Status": "Battle Royale Lobby: 1 / 32",
+	  "onMessage": "Message when someone types EVERY thing to the bot. Party & Whisper",
+	  "privacy": "PUBLIC"
+	  }
+	  
+	"Old_Stuff": {
+	
+	"invite_on_add": true,
+	"add_on_remove": false,
+	"accept_request": true,
+	
+	""
+ }
